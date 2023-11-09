@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StarWarspedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_person">Search person</string>
+    <string name="search_specie">Search specie</string>
+    <string name="search_planet">Search planet</string>
+    <string name="peopleNavTxt">people</string>
+    <string name="specieNavTxt">specie</string>
+    <string name="planetNavText">planet</string>
+    <string name="reload_text">Tap here if u wanna reload</string>
+    <string name="info_error_text">Something was wrong</string>
+</resources>

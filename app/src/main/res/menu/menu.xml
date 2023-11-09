@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/peopleFragment"
+        android:icon="@drawable/people_icon"
+        android:title="@string/peopleNavTxt" />
+    <item
+        android:id="@+id/speciesFragment"
+        android:icon="@drawable/specie_icon"
+        android:title="@string/specieNavTxt" />
+    <item
+        android:id="@+id/planetsFragment"
+        android:icon="@drawable/planet_icon"
+        android:title="@string/planetNavText" />
+</menu>
